@@ -1,0 +1,27 @@
+first train
+
+Epoch 2/2
+203/203 [==============================] - 58s 287ms/step - loss: 10.4366
+ - f1: 34.00
+             precision    recall  f1-score   support
+
+    DISEASE       0.76      0.02      0.04       894
+  TREATMENT       0.00      0.00      0.00       454
+      BBODY       0.32      0.67      0.43      1551
+      ADULT       0.00      0.00      0.00       208
+   DURATION       0.00      0.00      0.00       376
+   ACTIVITY       0.00      0.00      0.00       533
+    SOMEONE       0.00      0.00      0.00       444
+    SYMPTOM       0.46      0.48      0.47      2818
+      CHILD       0.00      0.00      0.00       169
+       FOOD       0.00      0.00      0.00       125
+   PREGNANT       0.00      0.00      0.00       293
+ANTISYMPTOM       0.00      0.00      0.00        95
+  LACTATION       0.00      0.00      0.00        77
+       BABY       0.81      0.42      0.55       199
+        MAN       0.00      0.00      0.00        38
+     PROMIL       0.00      0.00      0.00        25
+      WOMAN       0.00      0.00      0.00        38
+       TEST       0.00      0.00      0.00       100
+
+avg / total       0.31      0.30      0.26      8437
